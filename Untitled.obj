@@ -1,7 +1,7 @@
 # Blender 4.5.4 LTS
 # www.blender.org
 mtllib Untitled.mtl
-o Gnarp
+o Mesh
 v 0.303104 -0.522430 0.738648
 v 0.270105 -0.515330 0.757648
 v 0.277805 -0.542530 0.726048
